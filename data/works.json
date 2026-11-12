@@ -1,0 +1,726 @@
+{
+  "version": 2,
+  "settings": {
+    "draft": false,
+    "email": "rosmin513@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/yasmin-alanzi-978331196/",
+    "cv": "media/cv.pdf"
+  },
+  "categories": [
+    {
+      "id": "strategy",
+      "ar": "الأعمال الاستراتيجية",
+      "en": "Strategy"
+    },
+    {
+      "id": "launch",
+      "ar": "حملات الإطلاق",
+      "en": "Launch campaigns"
+    },
+    {
+      "id": "creative",
+      "ar": "المحتويات الإبداعية",
+      "en": "Creative content"
+    },
+    {
+      "id": "social",
+      "ar": "إدارة منصات التواصل الاجتماعي",
+      "en": "Social media management",
+      "layout": "wide",
+      "intro": {
+        "ar": "أدرت حسابات التواصل من وضع استراتيجية المحتوى وتخطيط موضوعاته والتنسيق للتصاميم، إلى تنظيم النشر ومواءمة المحتوى مع طبيعة كل منصة. كما تابعت تفاعل العملاء وأعددت التقارير، وطوّرت المحتوى بناءً على التفاعل وأداء المنصات.",
+        "en": ""
+      }
+    },
+    {
+      "id": "ads",
+      "ar": "محتوى الحملات الإعلانية",
+      "en": "Ad campaign content"
+    },
+    {
+      "id": "other",
+      "ar": "محتويات أخرى",
+      "en": "Other content",
+      "intro": {
+        "ar": "نماذج متنوعة من المحتوى، تشمل منشورات منصات التواصل الاجتماعي، وإشعارات التطبيقات، ورسائل البريد الإلكتروني، بصيغ تفاعلية وإثرائية وتسويقية.",
+        "en": ""
+      }
+    },
+    {
+      "id": "national",
+      "ar": "أعمال إبداعية وطنية",
+      "en": "National occasions"
+    }
+  ],
+  "brands": [
+    {
+      "id": "mod",
+      "ar": "وزارة الدفاع",
+      "en": "Ministry of Defense",
+      "logo": "assets/brands/mod.png",
+      "w": 127,
+      "h": 44,
+      "ground": "paper"
+    },
+    {
+      "id": "moi",
+      "ar": "وزارة الداخلية",
+      "en": "Ministry of Interior",
+      "logo": "assets/brands/moi.png",
+      "w": 55,
+      "h": 55,
+      "ground": "lavender"
+    },
+    {
+      "id": "murooj",
+      "ar": "مؤسسة مروج",
+      "en": "Murooj",
+      "confirm": true,
+      "logo": "assets/brands/murooj.png",
+      "w": 133,
+      "h": 43,
+      "ground": "paper"
+    },
+    {
+      "id": "datalexing",
+      "ar": "DataLexing",
+      "en": "DataLexing",
+      "logo": "assets/brands/datalexing.png",
+      "w": 128,
+      "h": 24,
+      "ground": "lavender"
+    },
+    {
+      "id": "alkhair",
+      "ar": "شركة الخير للأغذية والمشروبات",
+      "en": "Al Khair Food & Beverages",
+      "confirm": true,
+      "logo": "assets/brands/alkhair.png",
+      "w": 46,
+      "h": 46,
+      "ground": "paper"
+    },
+    {
+      "id": "ego",
+      "ar": "إيجو",
+      "en": "EGO",
+      "logo": "assets/brands/ego.png",
+      "w": 116,
+      "h": 30,
+      "ground": "ink"
+    },
+    {
+      "id": "yammak",
+      "ar": "يمّك",
+      "en": "Yammak",
+      "ground": "ink",
+      "logo": "assets/brands/yammak.png",
+      "w": 70,
+      "h": 43
+    },
+    {
+      "id": "jawhara",
+      "ar": "جوهرة",
+      "en": "Jawhara",
+      "confirm": true,
+      "logo": "assets/brands/jawhara.png",
+      "w": 65,
+      "h": 45,
+      "ground": "ink"
+    },
+    {
+      "id": "tarteeb",
+      "ar": "ترتيب",
+      "en": "Tarteeb",
+      "confirm": true,
+      "logo": "assets/brands/tarteeb.png",
+      "w": 42,
+      "h": 43,
+      "ground": "blush"
+    },
+    {
+      "id": "wusul",
+      "ar": "وصول",
+      "en": "Wusul",
+      "confirm": true,
+      "logo": "assets/brands/wusul.png",
+      "w": 61,
+      "h": 47,
+      "ground": "ink"
+    },
+    {
+      "id": "tujjar",
+      "ar": "منصات تجار",
+      "en": "Tujjar Platforms",
+      "confirm": true,
+      "logo": "assets/brands/tujjar.png",
+      "w": 58,
+      "h": 53,
+      "ground": "paper"
+    },
+    {
+      "id": "bayyinah",
+      "ar": "بينه",
+      "en": "Bayyinah",
+      "logo": "assets/brands/bayyinah.png",
+      "w": 88,
+      "h": 37,
+      "ground": "blush"
+    },
+    {
+      "id": "daqeeqa",
+      "ar": "دقيقة",
+      "en": "Daqeeqa",
+      "logo": "assets/brands/daqeeqa.png",
+      "w": 77,
+      "h": 40,
+      "ground": "ink"
+    },
+    {
+      "id": "cargoz",
+      "ar": "كارجوز",
+      "en": "Cargoz",
+      "logo": "assets/brands/cargoz.png",
+      "w": 112,
+      "h": 29,
+      "ground": "lavender"
+    }
+  ],
+  "works": [
+    {
+      "id": "w01",
+      "cat": "strategy",
+      "title": {
+        "ar": "تموضع العلامة التجارية",
+        "en": ""
+      },
+      "client": {
+        "ar": "DataLexing",
+        "en": ""
+      },
+      "desc": {
+        "ar": "أعدت تعريف DataLexing مع تطور المنتج: من «الجيل الجديد من أدوات الإنتاجية» إلى نظام تشغيل للأعمال (Work OS) سعودي الصنع قائم على الذكاء الاصطناعي. وشمل العمل توحيد الرسائل بين التسويق والمبيعات وربط تعريف المنتج برؤية العلامة وقيمها.",
+        "en": ""
+      },
+      "brand": "datalexing",
+      "art": "positioning"
+    },
+    {
+      "id": "w02",
+      "cat": "strategy",
+      "title": {
+        "ar": "خطة الموقع الإلكتروني والمدونة",
+        "en": ""
+      },
+      "client": {
+        "ar": "DataLexing",
+        "en": ""
+      },
+      "desc": {
+        "ar": "طوّرت خطة الموقع لتعكس تموضع DataLexing الجديد وتخاطب فئات الجمهور المستهدفة. واستند تخطيط المدونة إلى مزايا المنتج واحتياجات فئات الجهات الحكومية التي يخدمها، وإلى هدف تنمية قطاع الإنتاجية وإثرائه في العالم العربي.",
+        "en": ""
+      },
+      "brand": "datalexing",
+      "art": "sitemap"
+    },
+    {
+      "id": "w03",
+      "cat": "strategy",
+      "title": {
+        "ar": "تموضع منصات تجار",
+        "en": ""
+      },
+      "client": {
+        "ar": "منصات تجار",
+        "en": ""
+      },
+      "desc": {
+        "ar": "صغت تموضع «منصات تجار» كمنصة توثّق قصص التجار من داخل السوق بسرد واقعي يجمع بين التوثيق والتحليل. وحددت ما يميزها عن بودكاستات السير العامة والمقابلات الدعائية، والقيمة التي تقدمها للتجار والجهات، ومعايير اختيار القصص وبنائها.",
+        "en": ""
+      },
+      "brand": "tujjar",
+      "art": "venn"
+    },
+    {
+      "id": "w04",
+      "cat": "strategy",
+      "title": {
+        "ar": "استراتيجية حضور وتفعيل منصات التواصل الاجتماعي",
+        "en": ""
+      },
+      "desc": {
+        "ar": "وضعت استراتيجية حضور وتفعيل لمنصات التواصل لدى مختلف العلامات، تشمل تحديد شكل الصفحات وتنظيمها وإخراجها، ومراعاة أفضل ممارسات كل منصة وآلية خوارزمياتها، إلى جانب متابعة المنافسين.",
+        "en": ""
+      },
+      "art": "hub"
+    },
+    {
+      "id": "w05",
+      "cat": "strategy",
+      "title": {
+        "ar": "إرشادات المحتوى",
+        "en": ""
+      },
+      "client": {
+        "ar": "بينه",
+        "en": ""
+      },
+      "desc": {
+        "ar": "أعددت إرشادات لمحتوى تطبيق «بينه» للخدمات والاستشارات القانونية، تشمل أهداف المحتوى ونبرته، وتبسيط المعلومات القانونية مع الحفاظ على دقتها، وقواعد الكتابة بحسب الجمهور والقناة، مع أمثلة تطبيقية. وتهدف الإرشادات إلى إبراز التطبيق كحل تقني قانوني وتحفيز استخدامه مع ضبط استخدام اللهجة والنبرة المناسبة.",
+        "en": ""
+      },
+      "brand": "bayyinah",
+      "art": "guide"
+    },
+    {
+      "id": "w06",
+      "cat": "strategy",
+      "title": {
+        "ar": "خطة تشغيلية لاستهداف المنشآت",
+        "en": ""
+      },
+      "client": {
+        "ar": "DataLexing",
+        "en": ""
+      },
+      "desc": {
+        "ar": "صممت سير عمل لتسويق وبيع باقة Enterprise للجهات الحكومية، يوزع الأدوار والمخرجات بين فرق التسويق والمبيعات والمنتج عبر ست مراحل؛ من دراسة احتياجات الجهات وتجهيز الحل والحملة، إلى تمكين المبيعات ومتابعة النتائج والتحسين.",
+        "en": ""
+      },
+      "brand": "datalexing",
+      "art": "lanes"
+    },
+    {
+      "id": "w07",
+      "cat": "launch",
+      "title": {
+        "ar": "إطلاق أدوات DataLexing خلال معرض جيتكس 2023",
+        "en": ""
+      },
+      "link": "https://youtu.be/MMiTvaBKsaI"
+    },
+    {
+      "id": "w08",
+      "cat": "launch",
+      "title": {
+        "ar": "إطلاق منصة بينه القانونية بالهوية الجديدة",
+        "en": ""
+      },
+      "link": "https://www.tiktok.com/@bynh_sa/video/7405949114376146184"
+    },
+    {
+      "id": "w09",
+      "cat": "launch",
+      "title": {
+        "ar": "إطلاق منتج وصول إيزي ووصول بي",
+        "en": ""
+      },
+      "link": "https://www.instagram.com/reel/CkYd1xqIe87/",
+      "linkLabel": {
+        "ar": "المقطع التشويقي",
+        "en": ""
+      },
+      "more": [
+        {
+          "url": "https://www.instagram.com/reel/Ckdo6FsI4QN/",
+          "label": {
+            "ar": "المقطع الأساسي",
+            "en": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "w10",
+      "cat": "launch",
+      "title": {
+        "ar": "حملة إطلاق خدمة مدفوعات عبر الجوال",
+        "en": ""
+      },
+      "link": "https://www.instagram.com/reel/CxBVvsZNGJi/",
+      "linkLabel": {
+        "ar": "المقطع الأول",
+        "en": ""
+      },
+      "more": [
+        {
+          "url": "https://www.instagram.com/reel/CxGiin9N5Hu/",
+          "label": {
+            "ar": "المقطع الثاني",
+            "en": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "w11",
+      "cat": "launch",
+      "title": {
+        "ar": "إطلاق نظام DataLexing 4.0 القائم على الذكاء الاصطناعي",
+        "en": ""
+      },
+      "link": "https://youtu.be/Rf9ZToQ-PG0"
+    },
+    {
+      "id": "w12",
+      "cat": "creative",
+      "title": {
+        "ar": "تخيل هناك علاقة وثيقة بين معلّقة امرئ القيس والذكاء الاصطناعي!",
+        "en": ""
+      },
+      "link": "https://x.com/datalexing/status/1963670902635417624"
+    },
+    {
+      "id": "w13",
+      "cat": "creative",
+      "title": {
+        "ar": "كثرة السيوف سابقًا لم تكن دلالة عن نصر المعركة، كذلك كثرة الأدوات الذكية اليوم!",
+        "en": ""
+      },
+      "link": "https://x.com/datalexing/status/2019083977194144182"
+    },
+    {
+      "id": "w14",
+      "cat": "creative",
+      "title": {
+        "ar": "اللائحة التنفيذية لنظام خدمة القهوة السعودية، بمناسبة يوم القهوة العالمي!",
+        "en": ""
+      },
+      "link": "https://www.instagram.com/p/Dd83SjZjExb/"
+    },
+    {
+      "id": "w15",
+      "cat": "creative",
+      "title": {
+        "ar": "الجدّة هي المحكمة الوحيدة اللي تنقض حكم الوالدين!",
+        "en": ""
+      },
+      "link": "https://www.instagram.com/p/DYW5ikijI8I/"
+    },
+    {
+      "id": "w16",
+      "cat": "creative",
+      "title": {
+        "ar": "أشياء يسويها الناس اليوم زمان كانت توديهم السجن!",
+        "en": ""
+      },
+      "link": "https://www.instagram.com/p/DU0hHeUjPD-/"
+    },
+    {
+      "id": "w17",
+      "cat": "creative",
+      "title": {
+        "ar": "أسماء الشهور قبل الإسلام",
+        "en": ""
+      },
+      "link": "https://www.instagram.com/p/C9IV1pLoKBx/"
+    },
+    {
+      "id": "w18",
+      "cat": "social",
+      "title": {
+        "ar": "DataLexing",
+        "en": ""
+      },
+      "desc": {
+        "ar": "إدارة المنصات الاجتماعية، وبناء استراتيجية مناسبة لكل منصة من حيث المحتوى والتفاعل",
+        "en": ""
+      },
+      "tags": {
+        "ar": [
+          "إكس",
+          "إنستقرام",
+          "يوتيوب",
+          "سنابشات",
+          "تيك توك"
+        ],
+        "en": []
+      },
+      "brand": "datalexing",
+      "cover": "media/w18-tiktok.png"
+    },
+    {
+      "id": "w19",
+      "cat": "social",
+      "title": {
+        "ar": "إيجو",
+        "en": ""
+      },
+      "desc": {
+        "ar": "إدارة ومحتوى حساب إيجو",
+        "en": ""
+      },
+      "tags": {
+        "ar": [
+          "إكس"
+        ],
+        "en": []
+      },
+      "brand": "ego",
+      "cover": "media/w19-instagram.png"
+    },
+    {
+      "id": "w20",
+      "cat": "social",
+      "title": {
+        "ar": "شركة وصول للمدفوعات",
+        "en": ""
+      },
+      "desc": {
+        "ar": "إدارة المنصات الاجتماعية مع كتابة محتوى وخدمة العملاء",
+        "en": ""
+      },
+      "tags": {
+        "ar": [
+          "إكس",
+          "إنستقرام",
+          "يوتيوب",
+          "سنابشات",
+          "تيك توك"
+        ],
+        "en": []
+      },
+      "brand": "wusul",
+      "cover": "media/w20-instagram.png"
+    },
+    {
+      "id": "w21",
+      "cat": "social",
+      "title": {
+        "ar": "شركة الخير للتجارة المحدودة",
+        "en": ""
+      },
+      "desc": {
+        "ar": "إدارة حسابات وسائل التواصل الاجتماعي",
+        "en": ""
+      },
+      "points": {
+        "ar": [
+          "تخطيط وتنفيذ استراتيجيات النشر عبر المنصات لتعزيز الوعي بالعلامة التجارية وتفاعل المتابعين.",
+          "مراقبة التعليقات والردود على استفسارات العملاء «طلبات الجملة» بشكل فعال وفي الوقت المناسب."
+        ],
+        "en": []
+      },
+      "brand": "alkhair",
+      "cover": "media/w21-instagram.png"
+    },
+    {
+      "id": "w22",
+      "cat": "ads",
+      "title": {
+        "ar": "نصوص سكريبتات إعلانية بيعية بنمط UGC",
+        "en": ""
+      },
+      "link": "https://vt.tiktok.com/ZSgXtuNCy/",
+      "linkLabel": {
+        "ar": "المقطع الأول",
+        "en": ""
+      },
+      "more": [
+        {
+          "url": "https://www.instagram.com/reel/DM-Z2ANqvjD/",
+          "label": {
+            "ar": "المقطع الثاني",
+            "en": ""
+          }
+        },
+        {
+          "url": "https://www.instagram.com/reel/DRt8nzFDNHR/",
+          "label": {
+            "ar": "المقطع الثالث",
+            "en": ""
+          }
+        }
+      ],
+      "desc": {
+        "ar": "حققت الأداء المطلوب وفقًا للخطة الترويجية.",
+        "en": ""
+      }
+    },
+    {
+      "id": "w24",
+      "cat": "other",
+      "title": {
+        "ar": "منشور متعلق بوسم #طياراتنا_وين وصلت وربطها برسالة العلامة التجارية",
+        "en": ""
+      },
+      "link": "https://x.com/DataLexing/status/1833956447262249345"
+    },
+    {
+      "id": "w25",
+      "cat": "other",
+      "title": {
+        "ar": "دليل تفاعلي فيما يتعلق بتصحيح أوضاع أصحاب الجنسية اليمنية المقيمين في السعودية",
+        "en": ""
+      },
+      "link": "https://x.com/bynh_sa/status/2116893845354864780"
+    },
+    {
+      "id": "w26",
+      "cat": "other",
+      "title": {
+        "ar": "متلازمة المحتال",
+        "en": ""
+      },
+      "link": "https://x.com/datalexing/status/1839281492184412174"
+    },
+    {
+      "id": "w27",
+      "cat": "other",
+      "title": {
+        "ar": "أسمع جعجة ولا أرى طحنا!",
+        "en": ""
+      },
+      "link": "https://x.com/DataLexing/status/1748269074742902908"
+    },
+    {
+      "id": "w28",
+      "cat": "other",
+      "title": {
+        "ar": "بعض الناس أعداء ما يجهلون!",
+        "en": ""
+      },
+      "link": "https://x.com/nawafethco/status/1866554685571973227"
+    },
+    {
+      "id": "w29",
+      "cat": "other",
+      "title": {
+        "ar": "فيلم 1971 تم تصويره بلقطة واحدة!",
+        "en": ""
+      },
+      "link": "https://x.com/nawafethco/status/1842988190602559540"
+    },
+    {
+      "id": "w30",
+      "cat": "other",
+      "title": {
+        "ar": "استدامة تبدأ من الوضوء",
+        "en": ""
+      },
+      "link": "https://x.com/Morooj_sa/status/2034274866384208159",
+      "desc": {
+        "ar": "اليوم العالمي لإعادة التدوير",
+        "en": ""
+      }
+    },
+    {
+      "id": "w31",
+      "cat": "other",
+      "title": {
+        "ar": "رسالة بريدية — الأدوات المتعددة تقتل إنتاجية فريقك",
+        "en": ""
+      },
+      "cover": "media/w31-email.jpg"
+    },
+    {
+      "id": "w32",
+      "cat": "other",
+      "title": {
+        "ar": "تأسيس شخصية مناسبة لموقع كارجوز الخاص بالتخزين الفوري والمباشر",
+        "en": ""
+      },
+      "desc": {
+        "ar": "إعادة كتابة وصياغة الموقع باللغة العربية بهوية تتناسب مع شخصية وأسلوب التاجر السعودي",
+        "en": ""
+      },
+      "brand": "cargoz"
+    },
+    {
+      "id": "w33",
+      "cat": "other",
+      "title": {
+        "ar": "كتابة وتطوير موقع DataLexing والإشراف على تصميمه وإخراجه",
+        "en": ""
+      },
+      "brand": "datalexing"
+    },
+    {
+      "id": "w34",
+      "cat": "other",
+      "title": {
+        "ar": "كتابة حلقات منصة دقيقة",
+        "en": ""
+      },
+      "tags": {
+        "ar": [
+          "دقيقة اليوم",
+          "دقيقة عمل",
+          "دقيقة أزياء"
+        ],
+        "en": []
+      },
+      "brand": "daqeeqa"
+    },
+    {
+      "id": "w35",
+      "cat": "other",
+      "title": {
+        "ar": "كتابة شاشات معرض وزارة الدفاع 2024",
+        "en": ""
+      },
+      "brand": "mod"
+    },
+    {
+      "id": "w36",
+      "cat": "other",
+      "title": {
+        "ar": "كتابة حفل أولمبياد شهداء الواجب 2026",
+        "en": ""
+      },
+      "link": "https://x.com/security_gov/status/2107098803324989849"
+    },
+    {
+      "id": "w37",
+      "cat": "other",
+      "title": {
+        "ar": "إشعارات تطبيق",
+        "en": ""
+      },
+      "samples": {
+        "ar": [
+          [
+            "يا سنقل يا ملاك.. يا صعب الامتلاك 🤍😉",
+            "يومك سعيد يا أنيق 😊"
+          ],
+          [
+            "خليهم ثوبين ترى العرض زين!",
+            "ثوبين بـ 299 ريال بس! 🔥"
+          ],
+          [
+            "اختار ثوبك المرتب، ولا تشيل هم التفاصيل."
+          ]
+        ],
+        "en": []
+      },
+      "sampleStyle": "notification"
+    },
+    {
+      "id": "w38",
+      "cat": "national",
+      "title": {
+        "ar": "اليوم الوطني السعودي",
+        "en": ""
+      },
+      "link": "https://www.youtube.com/watch?v=s0TSr7iW-SA"
+    },
+    {
+      "id": "w39",
+      "cat": "national",
+      "title": {
+        "ar": "ذكرى التأسيس",
+        "en": ""
+      },
+      "link": "https://x.com/datalexing/status/1627956392429510656"
+    },
+    {
+      "id": "w40",
+      "cat": "national",
+      "title": {
+        "ar": "ذكرى التأسيس",
+        "en": ""
+      },
+      "link": "https://www.instagram.com/reel/DGYLfW8oxo6/"
+    }
+  ]
+}
